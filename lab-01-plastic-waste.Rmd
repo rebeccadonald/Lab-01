@@ -23,6 +23,7 @@ plastic_waste <- read_csv("data/plastic-waste.csv")
 
 ```{r plastic-waste-continent}
 #hello
+#hello2
 ```
 
 ### Exercise 2
